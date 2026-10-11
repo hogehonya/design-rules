@@ -4,7 +4,7 @@ UI・HTML資料・図解を作成、改稿、レビューするための日本�
 
 設計では、確認できた現状（As-Is）と将来構想（Vision）を分離し、採用済みの目標状態（To-Be）、実装済み、検証済みを区別します。詳細は[共通原則](skills/design/references/principles.md)を参照してください。
 
-読む入口は [デザインスキル](skills/design/SKILL.md)。内容の一覧は [SITEMAP](SITEMAP.md) にあります。外部スキル、プラグイン、専用サービスへの依存はありません。
+読む入口は [デザインスキル](skills/design/SKILL.md)。情報の優先度・使う場面・表示範囲の整理は [共通原則](skills/design/references/principles.md) にまとめています。内容の一覧は [SITEMAP](SITEMAP.md) にあります。外部スキル、プラグイン、専用サービスへの依存はありません。
 
 ## AIに読ませる
 
