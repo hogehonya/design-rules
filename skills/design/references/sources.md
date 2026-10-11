@@ -10,6 +10,8 @@
 
 ## 参考資料と独自の採用判断
 
+- [Progressive Disclosure（NN/g）](https://www.nngroup.com/articles/progressive-disclosure/)：Jakob Nielsen、2006-12-03公開、2026-10-11確認。重要な選択肢を初期表示に置き、専門的・低頻度の詳細へ分かる入口を用意する考え方を独自に要約した。共通原則の3軸と適用範囲の整理は本パッケージの採用判断であり、政府規定ではない。記事本文を転載していない。
+
 - [minorun365/minorun-marp-skillのslide-story](https://github.com/minorun365/minorun-marp-skill/blob/c6b20bbb8a1f2d2059e3764e2acd539c312785e4/skills/slide-story/SKILL.md)：Minoru Onda、commit `c6b20bbb8a1f2d2059e3764e2acd539c312785e4`、2026-09-21確認。[Apache-2.0](https://github.com/minorun365/minorun-marp-skill/blob/c6b20bbb8a1f2d2059e3764e2acd539c312785e4/LICENSE)。読者、説明順序、主張と実例、構成確認の考え方を独自に要約した。配布元のコードや素材は複製していない。
 - [Design Convergence共有資料](https://design-convergence.info185987.chatgpt.site/)：2026-09-18取得の書体方針と、用途別の入口・共通データ・可変高レイアウトを参考にした。特定のビュー数・分類・項目数や未実装の保存機能は要件にしない。
 
